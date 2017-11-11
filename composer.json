@@ -1,0 +1,14 @@
+{
+    "name": "lcxiaoma/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiangjun",
+            "email": "2300071698@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
